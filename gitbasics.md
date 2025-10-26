@@ -1,0 +1,7 @@
+- git init
+- git add .
+- git add <filename>
+- git commit -m "Initial commit of my project"
+- git push origin <branch-name>
+- git pull origin <branch-name>
+- git remote add origin <remote-repository-URL>
