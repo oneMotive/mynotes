@@ -1,4 +1,5 @@
 - ssh-keygen -t ed25519 -C "your_email@example.com"
 - ssh-add ~/.ssh/id_ed25519
+- eval "$(ssh-agent -s)"
 - ssh -T git@github.com
 - git remote set-url origin <new.git.ssh.url>
