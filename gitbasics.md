@@ -5,3 +5,4 @@
 - git push origin <branch-name>
 - git pull origin <branch-name>
 - git remote add origin <remote-repository-URL>
+- git remote set-url origin <NEW_GIT_URL_HERE>
