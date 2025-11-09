@@ -4,4 +4,5 @@
 - Add public key to Github
 - ssh -T git@github.com
 - git remote set-url origin <new.git.ssh.url>
+    - git@github.com:user/repo
 - https://docs.github.com/en/get-started/git-basics/managing-remote-repositories
