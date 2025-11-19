@@ -6,3 +6,5 @@
 - git remote set-url origin <new.git.ssh.url>
     - git@github.com:user/repo
 - https://docs.github.com/en/get-started/git-basics/managing-remote-repositories
+- git config --global user.name "Your Name"
+- git config --global user.email "your_email@example.com"
