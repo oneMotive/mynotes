@@ -6,4 +6,5 @@
 - git pull origin <branch-name>
 - git remote add origin <remote-repository-URL>
 - git remote set-url origin <NEW_GIT_URL_HERE>
+- git remote add origin <NEW_GIT_URL_HERE>
 - git push --set-upstream origin master
