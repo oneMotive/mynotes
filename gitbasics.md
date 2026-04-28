@@ -1,4 +1,6 @@
 - git init
+- git config --global init.defaultBranch main
+- git branch -m main
 - git add .
 - git add <filename>
 - git commit -m "Initial commit of my project"
@@ -8,3 +10,6 @@
 - git remote set-url origin <NEW_GIT_URL_HERE>
 - git remote add origin <NEW_GIT_URL_HERE>
 - git push --set-upstream origin master
+
+- git config --global user.name
+- git config --global user.email
