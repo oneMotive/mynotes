@@ -13,3 +13,9 @@
 
 - git config --global user.name
 - git config --global user.email
+
+new repo
+git add .
+git commit -m ""
+git remote add origin <new-git-url-here>
+git push --set-upstream origin main
