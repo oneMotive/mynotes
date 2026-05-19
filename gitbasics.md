@@ -19,3 +19,9 @@ new repo
 - git commit -m ""
 - git remote add origin <NEW_GIT_URL_HERE>
 - git push --set-upstream origin main
+
+Updating repo
+- git add .
+- git commit -m ""
+- git remote add origin <NEW_GIT_URL_HERE>
+- git push origin
